@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+      body {
+        font-size:200%;
+        background-color:white;
+        color:#000000;
+      }
+    </style>
+  </head>
+  <body>
+    <h2> Checking access URL.... Wait a moment</h2><br>
+    <img src="scan_files/loading.gif">
+  </body>
+</html>

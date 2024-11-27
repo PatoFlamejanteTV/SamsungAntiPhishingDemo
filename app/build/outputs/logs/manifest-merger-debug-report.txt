@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+	xmlns:android
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+permission#com.example.aogata.antiphishingdemo.permission.BIND_DEVICE_SECURITY
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:5:5-6:54
+	android:protectionLevel
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:6:9-52
+	android:name
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:5:17-99
+uses-permission#android.permission.INTERNET
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/aogata/workspace/AntiPhishingDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/aogata/workspace/AntiPhishingDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.aogata.antiphishingdemo.MainActivity
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.aogata.antiphishingdemo.DetectionListActivity
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:21:19-56
+service#com.example.aogata.antiphishingdemo.AntiPhishingService
+ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:23:9-28:15
+	android:exported
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:25:13-36
+	android:enabled
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:26:13-35
+	android:permission
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:27:13-101
+	android:name
+		ADDED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml:24:13-47
+uses-sdk
+INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/aogata/workspace/AntiPhishingDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/aogata/workspace/AntiPhishingDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aogata/workspace/AntiPhishingDemo/app/src/main/AndroidManifest.xml

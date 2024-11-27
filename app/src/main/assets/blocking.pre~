@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+      body {
+        font-size:200%;
+        background-color:red;
+        color:#FFFFFF;
+      }
+    </style>
+  </head>
+  <body>
+    <h1> Phishing Site Blocked </h1>
+    <h2> The site is fraudulent attempt to get you to provide personal information </h2>
+    <br><br><br><br>
+    <div align="center"><a href="http://www.samsung.com">Visit anyway</a></div>
+  </body>
+</html>
